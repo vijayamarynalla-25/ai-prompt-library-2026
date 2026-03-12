@@ -437,13 +437,7 @@ First analyze the request, design a response plan, and then generate the final a
 
 This improves **reasoning quality and response structure**.
 
----
 
-If you want, I can also show you something **extremely valuable for your situation** (especially since you want to build skills fast):
-
-**The “AI Self-Learning OS Prompt” used to learn any skill 10× faster with AI.**
-
-It’s basically a **single prompt that turns AI into your personal university.**
 
 
 
